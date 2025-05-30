@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(eeg_msgs)
+project(sense_msgs)
 
 # Find necessary packages
 find_package(ament_cmake REQUIRED)
